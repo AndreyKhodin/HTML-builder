@@ -71,4 +71,3 @@ fsPromises.mkdir('files-copy').then(function() {
 //getFiles('./', function (err, files) {
  //    console.log(err || files);
  //});
-
